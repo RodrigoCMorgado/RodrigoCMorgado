@@ -11,14 +11,17 @@
 - 🗣️ I speak Portuguese and intermediate English
 
 ## Connect with me:
-## Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/yourtwitter"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-<a href="https://www.instagram.com/yourinstagram/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-</p>
-
+<a href="https://twitter.com/yourtwitter">
+  <img align="left" alt="Twitter" width="22px" src="URL_DO_ÍCONE_DO_TWITTER_PRETO" />
+</a>
+<a href="https://www.linkedin.com/in/yourlinkedin/">
+  <img align="left" alt="Linkedin" width="22px" src="URL_DO_ÍCONE_DO_LINKEDIN_PRETO" />
+</a>
+<a href="https://www.instagram.com/yourinstagram/">
+  <img align="left" alt="Instagram" width="22px" src="URL_DO_ÍCONE_DO_INSTAGRAM_PRETO" />
+</a>
+<br />
 
 ## Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
