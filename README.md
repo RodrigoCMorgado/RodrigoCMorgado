@@ -12,7 +12,7 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/yourtwitter">
+<a href="https://twitter.com/RodrigoCMorgado">
   <img align="left" alt="Twitter" width="22px" src="https://cdn3.emoji.gg/emojis/6627-x-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/yourlinkedin/">
