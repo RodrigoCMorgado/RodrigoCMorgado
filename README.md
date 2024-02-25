@@ -22,7 +22,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/9158-instagram-logo.png" />
 </a>
 <a href="Discord Invite">
-  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/2571-discord-logo.png" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/4929-discord.png" />
 </a>
 <br />
 
