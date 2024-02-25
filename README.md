@@ -11,11 +11,11 @@
 - 🗣️ I speak Portuguese and intermediate English
 
 ## Connect with me:
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
 
-[<img src="https://i.stack.imgur.com/gVE0j.png" width="30px"/>](https://www.linkedin.com/in/yourlinkedin/)
-
-[![GitHub followers](https://img.shields.io/github/followers/yourgithub?style=social)](https://github.com/yourgithub)
+<a href="https://twitter.com/yourtwitter"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/yourlinkedin/"><img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" /></a>
+<a href="https://www.instagram.com/yourinstagram/"><img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" /></a>
+<br />
 
 
 ## Languages and Tools:
