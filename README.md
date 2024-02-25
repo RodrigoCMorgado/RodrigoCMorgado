@@ -29,8 +29,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=terminal&logoColor=white)
 
-// Add more badges for technologies you use
-
 ## ⚡ Github Stats
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&show_icons=true&theme=light)
