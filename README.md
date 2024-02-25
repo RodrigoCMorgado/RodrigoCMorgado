@@ -32,6 +32,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=terminal&logoColor=white)
 
-## ⚡ Github Stats
+<details>
+  <summary><img src="URL_DA_SUA_IMAGEM_COM_SETA" alt="GitHub Stats" /></summary>
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&show_icons=true&theme=night)
+  ![Chinmay Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+</details>
