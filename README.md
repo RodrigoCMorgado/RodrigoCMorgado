@@ -19,7 +19,7 @@
   <img align="left" alt="Linkedin" width="22px" src="URL_DO_ÍCONE_DO_LINKEDIN_PRETO" />
 </a>
 <a href="https://www.instagram.com/yourinstagram/">
-  <img align="left" alt="Instagram" width="22px" src="URL_DO_ÍCONE_DO_INSTAGRAM_PRETO" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/9158-instagram-logo.png" />
 </a>
 <br />
 
