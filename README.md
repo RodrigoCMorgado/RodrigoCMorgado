@@ -24,3 +24,11 @@
 ## ⚡ Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Total Stars](https://github-readme-stats.vercel.app/api?username=seuusername&count_private=true&include_all_commits=true&theme=light&custom_title=Total%20Stars&hide=contribs,prs,issues,commits)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Total Commits](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=light&include_all_commits=true&custom_title=Total%20Commits&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Total PRs](https://github-readme-stats.vercel.app/api/pullrequest/detail?username=seuusername&theme=light&custom_title=Total%20PRs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Total Issues](https://github-readme-stats.vercel.app/api/issues/detail?username=seuusername&theme=light&custom_title=Total%20Issues)](https://github.com/anuraghazra/github-readme-stats)
