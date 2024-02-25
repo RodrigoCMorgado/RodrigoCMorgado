@@ -34,14 +34,3 @@
 ## ⚡ Github Stats
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&show_icons=true&theme=light)
-
-![Total Stars](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&count_private=true&include_all_commits=true&theme=light&custom_title=Total%20Stars&hide=contribs,prs,issues,commits)
-
-![Total Commits](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&show_icons=true&theme=light&include_all_commits=true&custom_title=Total%20Commits&hide=stars,prs,issues,contribs)
-
-<!-- Estatísticas de PRs e Issues podem não ser suportadas como as URLs acima sugerem. Você pode querer usar estatísticas gerais como a primeira imagem até encontrar a maneira correta de exibir PRs e Issues. -->
-
-![Total PRs](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&theme=light)
-
-![Total Issues](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&theme=light)
-
