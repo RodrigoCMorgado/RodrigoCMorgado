@@ -25,6 +25,7 @@
   <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/2571-discord-logo.png" />
 </a>
 <br />
+
 ## Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
