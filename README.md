@@ -35,6 +35,6 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  ![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?RodrigoMorgado=RodrigoCMorgado&show_icons=true)
+  ![RodrigoCMorgado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoCMorgado&show_icons=true)
 
 </details>
