@@ -19,7 +19,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn3.emoji.gg/emojis/8197-linkedin.png" />
 </a>
 <a href=https://www.instagram.com/code.depot/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/9158-instagram-logo.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/2579-instagramlogo.png" />
 </a>
 <a href="Discord Invite">
   <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/4929-discord.png" />
