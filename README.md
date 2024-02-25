@@ -33,8 +33,8 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=terminal&logoColor=white)
 
 <details>
-  <summary><img src="URL_DA_SUA_IMAGEM_COM_SETA" alt="GitHub Stats" /></summary>
+  <summary>⚡ GitHub Stats</summary>
 
-  ![Chinmay Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+  ![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?RodrigoMorgado=RodrigoCMorgado&show_icons=true)
 
 </details>
