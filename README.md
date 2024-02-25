@@ -13,17 +13,20 @@
 ## Connect with me:
 
 <a href="https://twitter.com/yourtwitter">
-  <img align="left" alt="Twitter" width="22px" src="URL_DO_ÍCONE_DO_TWITTER_PRETO" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn3.emoji.gg/emojis/6627-x-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/yourlinkedin/">
-  <img align="left" alt="Linkedin" width="22px" src="URL_DO_ÍCONE_DO_LINKEDIN_PRETO" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn3.emoji.gg/emojis/8197-linkedin.png" />
 </a>
-<a href="https://www.instagram.com/yourinstagram/">
+<a href=https://www.instagram.com/code.depot/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/9158-instagram-logo.png" />
 </a>
+<a href="Discord Invite">
+  <img align="left" alt="Discord" width="22px" src="https://cdn3.emoji.gg/emojis/2571-discord-logo.png" />
+</a>
 <br />
-
 ## Languages and Tools:
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
