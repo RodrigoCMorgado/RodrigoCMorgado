@@ -12,8 +12,11 @@
 
 ## Connect with me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-![GitHub followers](https://img.shields.io/github/followers/yourgithub?style=social)
+
+[<img src="https://i.stack.imgur.com/gVE0j.png" width="30px"/>](https://www.linkedin.com/in/yourlinkedin/)
+
+[![GitHub followers](https://img.shields.io/github/followers/yourgithub?style=social)](https://github.com/yourgithub)
+
 
 ## Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
