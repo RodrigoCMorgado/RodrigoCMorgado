@@ -15,7 +15,7 @@
 <a href="https://twitter.com/RodrigoCMorgado">
   <img align="left" alt="Twitter" width="22px" src="https://cdn3.emoji.gg/emojis/6627-x-logo.png" />
 </a>
-<a href="https://www.linkedin.com/in/yourlinkedin/">
+<a href="https://www.linkedin.com/in/rodrigocmorgado/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn3.emoji.gg/emojis/8197-linkedin.png" />
 </a>
 <a href=https://www.instagram.com/code.depot/">
