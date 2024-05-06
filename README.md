@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/rodrigocmorgado/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn3.emoji.gg/emojis/8197-linkedin.png" />
 </a>
-<a href=https://www.instagram.com/code.depot/">
+<a href="https://www.instagram.com/rodrigo.005_/%22">
   <img align="left" alt="Instagram" width="22px" src="https://cdn3.emoji.gg/emojis/2579-instagramlogo.png" />
 </a>
 <a href="Discord Invite">
